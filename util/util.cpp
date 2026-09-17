@@ -2,5 +2,5 @@
 #include <iostream>
 
 void HelloWorld() {
-    std::cout << "Hello World from util library!" << std::endl;
+    std::cout << "Hello World" << std::endl;
 }
